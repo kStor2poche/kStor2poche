@@ -1,5 +1,5 @@
 <h2>About me !</h2>
-I'm a french student of Telecom SudParis interested in various domains of computer science, ranging from generating graphics through low level APIs such as OpenGL to cybersecurity (and many other things in the middle, including linux <3).
+I'm a french student of Telecom SudParis interested in various domains of computer science, ranging from computer generated images through low level APIs such as OpenGL to cybersecurity (and many other things in the middle, including linux <3).
 <h2>what I know</h2>
 Some basic bash, python and basics of OpenGL 2D rendering
 <h2>what I'm learning</h2>
