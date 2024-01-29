@@ -1,5 +1,5 @@
 # Hi !  
-Name's Léo, student of french engineering school [Télécom SudParis](https://www.telecom-sudparis.eu/).
+Name's kStor2poche, student of french engineering school [Télécom SudParis](https://www.telecom-sudparis.eu/).
 
 I'm interested in various domains of computer science, ranging from shaders to cybersecurity (and many other things in the middle, including linux).  
 
