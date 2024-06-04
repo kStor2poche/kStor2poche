@@ -4,7 +4,7 @@ Name's kStor2poche, I'm a student of french engineering school [Télécom SudPar
 I'm interested in various domains of computer science, ranging from shaders to cybersecurity (and many other things in the middle, including linux).  
 
 ## I program things 💻
-The languages I'm using are **bash**, **python**, **java**, **php**, **c++**, **c#** and more lately **rust 🦀** !  
+The languages I'm using are **bash**, **python**, **java**, **php**, **c++**, **c#**, **c** and more lately **rust 🦀** !  
 
 I'm currently mostly writing some fun things in rust on some of my repos and will probably use that language for my upcoming projects :)
 
